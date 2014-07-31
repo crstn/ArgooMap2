@@ -1,0 +1,54 @@
+8
+
+dir
+2
+svn+ssh://cvs-ifgi.uni-muenster.de/export/svn/ArgooMap/ArgooMap2/tomcat/work/gwt/localhost/_
+svn+ssh://cvs-ifgi.uni-muenster.de/export/svn/ArgooMap
+
+
+
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3fde5d49-902f-0410-829d-82289aecac40
+
+SESSIONS.ser
+file
+
+
+
+
+2007-05-02T20:02:39.046000Z
+3bdbf73cd646221d2fe89c1e5b884b16
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+has-props
+
+tldCache.ser
+file
+
+
+
+
+2007-04-04T13:33:00.921000Z
+bf24979d00f3c4c4c6e842de9817754d
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+has-props
+

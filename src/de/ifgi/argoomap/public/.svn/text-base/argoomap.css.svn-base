@@ -1,0 +1,27 @@
+body {
+	background-color: white;
+	margin: 20px;
+}
+
+body, h1, input{
+	color: #0c0c0c;
+	font-family: Georgia, Times, serif;
+}
+
+h1{
+	text-align: right;	
+	color: #84815B;
+	margin: 10px;
+	font-size: 4em;
+	font-weight: normal;
+}
+
+h1 sup{
+	color: #ADCF4F;
+}
+
+input{
+	border: 1px solid #0c0c0c;
+	background-color: white;
+	margin-bottom: 10px;
+}

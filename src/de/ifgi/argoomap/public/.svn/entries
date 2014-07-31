@@ -1,0 +1,52 @@
+8
+
+dir
+2
+svn+ssh://cvs-ifgi.uni-muenster.de/export/svn/ArgooMap/ArgooMap2/src/de/ifgi/argoomap/public
+svn+ssh://cvs-ifgi.uni-muenster.de/export/svn/ArgooMap
+
+
+
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3fde5d49-902f-0410-829d-82289aecac40
+
+ArgooMap2.html
+file
+
+
+
+
+2007-04-12T15:46:48.004000Z
+94b1cf1f7f8229366ae0974458e2dbc2
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+
+argoomap.css
+file
+
+
+
+
+2007-04-12T15:53:43.093000Z
+d1a461d308ab3faf739e5de077d51b77
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+

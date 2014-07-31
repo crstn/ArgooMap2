@@ -1,0 +1,43 @@
+8
+
+dir
+2
+svn+ssh://cvs-ifgi.uni-muenster.de/export/svn/ArgooMap/ArgooMap2/src/com/mapitz/gwt/googleMaps
+svn+ssh://cvs-ifgi.uni-muenster.de/export/svn/ArgooMap
+
+
+
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3fde5d49-902f-0410-829d-82289aecac40
+
+GoogleMaps.gwt.xml
+file
+
+
+
+
+2006-12-10T19:46:52.000000Z
+c88f6450c843515f1d6ef20c896fee46
+2007-05-03T15:16:32.833692Z
+2
+Carsten
+
+client
+dir
+

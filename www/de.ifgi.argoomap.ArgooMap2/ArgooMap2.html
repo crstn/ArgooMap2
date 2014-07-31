@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>ArgooMap Prototype v2 beta</title>
+	<link rel="stylesheet" href="argoomap.css" type="text/css" media="screen" />
+
+	<!-- The module reference below is the link    -->
+	<!-- between html and your Web Toolkit module  -->		
+	<meta name='gwt:module' content='de.ifgi.argoomap.ArgooMap2'>
+		
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA2uVP_UOqpQ8kN5UusRJxtRTb-vLQlFZmc2N8bgWI8YDPp5FEVBTeVqWarvzWD3SO7oLG9SYKPHZvRg"
+      type="text/javascript">
+    </script>
+		
+	</head>
+
+	<!-- The body can have arbitrary html, or      -->
+	<!-- you can leave the body empty if you want  -->
+	<!-- to create a completely dynamic ui         -->
+	<body>
+
+		<!-- This script is required bootstrap stuff.   -->
+		<!-- You can put it in the HEAD, but startup    -->
+		<!-- is slightly faster if you include it here. -->
+		<script language="javascript" src="gwt.js"></script>
+
+		<!-- OPTIONAL: include this if you want history support -->
+		<iframe id="__gwt_historyFrame" style="width:0;height:0;border:0"></iframe>
+
+		<h1>ArgooMap<sup>2</sup></h1>
+		<div id="status_buttons"></div>
+		<div id="map"></div>
+	</body>
+</html>
